@@ -157,10 +157,6 @@ int my_compare(const void* a,
 }
 
 void printClassStats() {
-
-    float aveClassMath;
-    float aveClassBio;
-    float aveClassEng;
     int numberOfScholarStudents = 0;
 
     float sumOfClassMath = 0.0f;
